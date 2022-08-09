@@ -1,0 +1,3 @@
+Myname: Henrik
+Favorite color: #fe7b24
+Favorite food: Potatoes (Sweet)
